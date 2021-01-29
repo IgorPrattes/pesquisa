@@ -1,0 +1,231 @@
+#cabeca {
+    color: #000000;
+    text-decoration: none;
+    font-size: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    margin: 10px;
+}
+
+.Mesquita {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    margin: 10px;
+    display: flex;
+}
+
+.rocha {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    color: black;
+    margin: 30px;
+    display: flex;
+    margin-left: 75%;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.paulino {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    color: black;
+    margin: 30px;
+    display: flex;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.logo {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    margin: 30px;
+    display: flex;
+    word-wrap: break-word;
+}
+
+header {
+    background-color: #ffffff;
+    padding: 1px 1px 1px 1px;
+    margin: auto;
+}
+
+body {
+    margin: 0%;
+    background-image: url('https://www.10wallpaper.com/wallpaper/1366x768/1512/line_obliquely_purple_bright-2015_Design_HD_Wallpaper_1366x768.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logoiv2 {
+    margin: 5% 50% 0% 42%;
+}
+
+#legenda {
+    margin: 0% 50% 1% 47.5%;
+    color: white;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#divBusca {
+    background-color:#ffffff;
+    border:solid 1px;
+    border-radius:1px;
+    width:50%;
+    margin: 0% 25%;
+  }
+  
+  #txtBusca {
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    widows: 30px;
+  }
+
+  #btnBusca {
+    height: 30px;
+    width: 30px;
+    margin-left: 55%;
+  }
+
+  #azar {
+      color: white;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 13px;
+      display: flex;
+  }
+
+  #vapo {
+      border: solid 2px;
+      background-color: #6c1a8d;
+      width: 9%;
+      height: 3%;
+      padding: 0% 2% 0% 2%;
+      margin-top: 1%;
+      margin-left: 43%;
+      border-color: #ff0095;
+  }
+
+  #footer {
+      margin-top: 10%;
+      padding: 3px 10px 35px 10px;
+      background-color: #9321af;
+  }
+
+  #vamoo {
+      color: #ffffff;
+      font-size: 15px;
+      margin: 10px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-bottom: 1%;
+      text-decoration: none;
+  }
+
+  div a {
+      color: #ffffffbe;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 15px;
+      text-decoration: none;
+      margin: 10px;
+  }
+
+  .privacidade {
+      margin-left: 47%;
+  }
+
+
+  /* brasil */
+#textoB {
+    color: #000000;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    margin: 0% 28% -3% 23%;
+    background-color: #ffffff;
+    word-wrap: break-word;
+    text-align: justify;
+}
+
+.bandeira {
+    margin: 5% 24% 1% 24%;
+    width: 10%;
+}
+ p a {
+     color: #ff009d;
+     font-size: 15px;
+ }
+
+ /* Sobre */
+.igao {
+    margin: 5% 1% 1% 26%;
+    width: 10%;
+    height: 20%;
+}
+
+.igao2 {
+    text-align: justify;
+    color: #000000;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+    padding: 10px 20px;
+
+}
+
+.igao3 {
+    margin: 1% 1% 1% 1%;
+    width: 17%;
+    height: 17%;
+}
+
+.igao4 {
+    margin: 1% 1% 1% 1%;
+    width: 17%;
+    height: 17%;
+}
+
+/* PESQUISA */
+
+.sisi {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 24%;
+    margin-top: 5%;
+}
+#iv22 {
+    width: 20%;
+    height: 20%;
+    margin-left: 20%;
+    background-color: #ffffff;
+    padding: 1% 1%;
+}
+
+#patrao {
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 15%;
+    margin-right: 50%;
+    text-align: justify;
+    background-color: #ffffff;
+    padding: 1% 1%;
+}
+
+#grupoiv2 {
+    width: 30%;
+    height: 30%;
+    padding-left: 15%;
+}
+
